@@ -15,27 +15,23 @@ function ohayou() {
     alert("Hello!");
 }
 
-function showhide() {
+function show() {
     // showボタン
-    $('#btn_show').click(function() {
-        $('#header').show();
-    });
- 
-    // hideボタン
-    $('#btn_hide').click(function() {
-        $('#header').hide();
-    });
+    $('#header').show();
 };
 
-function fadeInOut() {
+function hide() { 
+    // hideボタン
+    $('#header').hide();
+};
+
+function fadeIn() {
     // fadeInボタン
-    $('#btn_fadeIn').click(function() {
-        $('#header_fadeInOut').fadeIn();
-    });
- 
+    $('#header_fadeInOut').fadeIn();
+};
+
+function fadeOut() {
     // fadeOutボタン
-    $('#btn_fadeOut').click(function() {
-        $('#header_fadeInOut').fadeOut();
-    });
+    $('#header_fadeInOut').fadeOut();
 };
 
