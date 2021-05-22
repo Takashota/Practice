@@ -26,24 +26,28 @@
 #btn_show {
   color: blue;
   background-color: lightgreen;
+  height: 20px;
   width: 250px;
 }
 
 #btn_hide {
   color: blue;
   background-color: lightgreen;
+  height: 20px;
   width: 250px;
 }
 
 #btn_fadeIn {
   color: blue;
   background-color: lightgreen;
+  height: 20px;
   width: 250px;
 }
 
 #btn_fadeOut {
   color: blue;
   background-color: lightgreen;
+  height: 20px;
   width: 250px;
 }
 
