@@ -31,6 +31,18 @@
   width: 250px;
 }
 
+#btn_fadeIn {
+  color: aqua;
+  background-color: green;
+  width: 250px;
+}
+
+#btn_fadeOut {
+  color: aqua;
+  background-color: green;
+  width: 250px;
+}
+
 #btn_hide {
   color: aqua;
   background-color: green;
@@ -42,6 +54,7 @@
   width: 180px;
   height: 50px;
 }
+
 .container{ height:40px;}
 #div1{ background:pink; visibility:hidden; }
 #div2{ background:yellow; display:block; }
