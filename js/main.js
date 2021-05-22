@@ -10,3 +10,7 @@ function click() {
         $("#header").hide();
       };
   }
+
+  $('#div1').click(function(){
+      alert('クリックされました！');
+  });
