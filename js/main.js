@@ -13,3 +13,6 @@ function click() {
   function ohayou() {
     alert("Hello!");
   }
+  function hide() {
+    $("#header").hide();
+  }
