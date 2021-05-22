@@ -17,21 +17,21 @@ function ohayou() {
 
 function show() {
     // showボタン
-    $('#header').show();
+    $('#btn_header').show();
 };
 
 function hide() { 
     // hideボタン
-    $('#header').hide();
+    $('#btn_header').hide();
 };
 
 function fadeIn() {
     // fadeInボタン
-    $('#header_fadeInOut').fadeIn();
+    $('#btn_header_fadeInOut').fadeIn();
 };
 
 function fadeOut() {
     // fadeOutボタン
-    $('#header_fadeInOut').fadeOut();
+    $('#btn_header_fadeInOut').fadeOut();
 };
 
