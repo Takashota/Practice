@@ -15,6 +15,10 @@ function ohayou() {
     alert("Hello!");
 }
 
+function btn_header_fadeInOut() {
+    alert("This is a botton as a fadein or a fadeout");
+}
+
 $(function() {
     // showボタン
     $('#btn_show').click(function() {
@@ -39,3 +43,4 @@ $(function() {
     });
     jQueryObject.fadeIn('slow');
 });
+
