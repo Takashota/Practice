@@ -31,13 +31,13 @@
 .example table {
   width: 3000px;
   height: 1000px;
-  border: 1px #000000 solid;
+  border: 10px #000000 solid;
   }
   
   .example td {
-  border: 1px #000000 solid;
+  border: 10px #000000 solid;
   }
   
   .example th {
-  border: 1px #000000 solid;
+  border: 10px #000000 solid;
   }
