@@ -17,3 +17,6 @@
   width: 80px;
   height: 50px;
 }
+.container{ height:120px;}
+#div1{ background:pink; display:none; }
+#div2{ background:yellow; display:block; }
