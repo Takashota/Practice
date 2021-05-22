@@ -45,6 +45,7 @@
 }
   
 .example td {
+  color:gray;
   border: 10px gray solid;
 }
   
