@@ -28,12 +28,12 @@ function showhide() {
 };
 
 function fadeInOut() {
-    // showボタン
+    // fadeInボタン
     $('#btn_fadeIn').click(function() {
         $('#header_fadeInOut').fadeIn();
     });
  
-    // hideボタン
+    // fadeOutボタン
     $('#btn_fadeOut').click(function() {
         $('#header_fadeInOut').fadeOut();
     });
