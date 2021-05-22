@@ -10,7 +10,7 @@
   cursor: pointer;
   width: 200px;
   text-align: center;
-  border: 10px solid #232323;
+  border: 8px solid #232323;
 }
 #header {
   /*display: none;だと要素を非表示にするとレイアウトが変わってしまうので、visibility:hiddenを使う*/
