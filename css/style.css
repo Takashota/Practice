@@ -1,6 +1,7 @@
 #header_top{
   display: block;
   background: skyblue ; 
+  background-color: darkgray;
   font-size: 80px;
   height: 80px;
 }
