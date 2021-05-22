@@ -67,10 +67,6 @@
   height: 50px;
 }
 
-.container{ height:40px;}
-#div1{ background:pink; visibility:hidden; }
-#div2{ background:yellow; display:block; }
-
 .example table {
   background-color: skyblue;
   width: 180px;
