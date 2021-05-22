@@ -30,11 +30,12 @@ $(function() {
 $(function() {
     // showボタン
     $('#btn_fadeIn').click(function() {
-        $('#header_fadeInOut').fadeIn(3);
+        $('#header_fadeInOut').fadeIn();
     });
  
     // hideボタン
     $('#btn_fadeOut').click(function() {
-        $('#header_fadeInOut').fadeOut(3);
+        $('#header_fadeInOut').fadeOut();
     });
+    jQueryObject.fadeIn(1000);
 });
