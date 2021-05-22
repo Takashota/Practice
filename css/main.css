@@ -6,11 +6,11 @@
 
 #text-button {
   display: block;
-  background: red;
+  background: skyblue;
   cursor: pointer;
-  width: 200px;
+  width: 100px;
   text-align: center;
-  border: 8px solid #232323;
+  border: 3px solid #232323;
 }
 #header {
   /*display: none;だと要素を非表示にするとレイアウトが変わってしまうので、visibility:hiddenを使う*/
