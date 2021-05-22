@@ -17,20 +17,20 @@ function ohayou() {
 
 function show() {
     // showボタン
-    $('#div_hide').animate({opacity: 100})
+    $('#div_hide').animate({opacity: 'show'})
 };
 
 function hide() { 
     // hideボタン
-    $('#div_hide').animate({opacity: 0})
+    $('#div_hide').animate({opacity: 'hide'})
 };
 
 function fadeIn() {
     // fadeInボタン
-    $('#div_fadeInOut').animate({opacity: 100})    
+    $('#div_fadeInOut').animate({opacity: 'show'})    
 };
 
 function fadeOut() {
     // fadeOutボタン
-    $('#div_fadeInOut').animate({opacity: 0})
+    $('#div_fadeInOut').animate({opacity: 'hide'})
 };
