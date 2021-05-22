@@ -17,7 +17,7 @@ function ohayou() {
 
 function show() {
     // showボタン
-    $('#div_hide').show();
+    $('#div_hide').animate({opacity: 100})
 };
 
 function hide() { 
@@ -27,7 +27,7 @@ function hide() {
 
 function fadeIn() {
     // fadeInボタン
-    $('#div_fadeInOut').fadeIn();    
+    $('#div_fadeInOut').animate({opacity: 100})    
 };
 
 function fadeOut() {
