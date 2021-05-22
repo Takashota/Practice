@@ -38,16 +38,16 @@
 #div2{ background:yellow; display:block; }
 
 .example table {
-  background-color: red;
-  width: 100px;
-  height: 40px;
-  border: 10px #000000 solid;
+  background-color: skyblue;
+  width: 50px;
+  height: 20px;
+  border: 5px #000000 solid;
 }
   
 .example td {
-  border: 10px #000000 solid;
+  border: 5px #000000 solid;
 }
   
 .example th {
-  border: 10px #000000 solid;
+  border: 5px #000000 solid;
 }
