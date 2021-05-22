@@ -27,3 +27,17 @@
 .container{ height:120px;}
 #div1{ background:pink; display:none; }
 #div2{ background:yellow; display:block; }
+
+.example table {
+  width: 300px;
+  height: 100px;
+  border: 1px #000000 solid;
+  }
+  
+  .example td {
+  border: 1px #000000 solid;
+  }
+  
+  .example th {
+  border: 1px #000000 solid;
+  }
