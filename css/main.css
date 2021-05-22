@@ -39,8 +39,8 @@
 
 .example table {
   background-color: skyblue;
-  width: 300px;
-  height: 100px;
+  width: 100px;
+  height: 40px;
   border: 10px #000000 solid;
 }
   
