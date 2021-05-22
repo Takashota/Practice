@@ -8,12 +8,14 @@ function click() {
     document.getElementById("text-button").onclick = function() {
         document.getElementById("text").innerHTML = "クリックされた！";
         $("#header").hide();
-      };
-  }
-  function ohayou() {
+    };
+}
+
+function ohayou() {
     alert("Hello!");
-  }
-  $(function() {
+}
+
+$(function() {
     // showボタン
     $('#btn_show').click(function() {
         $('#header').show();
@@ -22,5 +24,17 @@ function click() {
     // hideボタン
     $('#btn_hide').click(function() {
         $('#header').hide();
+    });
+});
+
+$(function() {
+    // showボタン
+    $('#btn_fadeIn').click(function() {
+        $('#header_fadeInOut').show();
+    });
+ 
+    // hideボタン
+    $('#btn_fadeOut').click(function() {
+        $('#header_fadeInOut').hide();
     });
 });
