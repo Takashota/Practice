@@ -16,3 +16,6 @@ function click() {
   function hide() {
     $("#header").hide();
   }
+  function show() {
+    $("#header").show();
+  }
