@@ -5,6 +5,7 @@ body {
 .header_class {
   display: inline-block;
   width: 400px;
+  height: 70px;
 }
 
 #header_textbox {
