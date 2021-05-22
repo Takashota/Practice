@@ -19,6 +19,7 @@
   height: 50px;
 }
 #btn_header {
+  display: block;
   background : red;
   width: 100px;
   height: 100px;
