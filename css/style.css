@@ -24,25 +24,25 @@
 }
 
 #btn_show {
-  color: aqua;
+  color: blue;
   background-color: lightgreen;
   width: 250px;
 }
 
 #btn_hide {
-  color: aqua;
+  color: blue;
   background-color: lightgreen;
   width: 250px;
 }
 
 #btn_fadeIn {
-  color: aqua;
+  color: blue;
   background-color: lightgreen;
   width: 250px;
 }
 
 #btn_fadeOut {
-  color: aqua;
+  color: blue;
   background-color: lightgreen;
   width: 250px;
 }
@@ -54,7 +54,7 @@
 }
 
 .example table {
-  background-color: skyblue;
+  background-color: blue;
   width: 180px;
   height: 80px;
   border: 5px gray solid;
