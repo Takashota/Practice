@@ -37,6 +37,5 @@ $(function() {
     $('#btn_fadeOut').click(function() {
         $('#header_fadeInOut').fadeOut();
     });
-    jQueryObject.fadeIn('slow');
 });
 
