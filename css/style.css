@@ -24,6 +24,11 @@
   width: 250px;
 }
 
+#btn_header_fadeInOut {
+  color: aqua;
+  width: 250px;
+}
+
 #btn_show {
   color: aqua;
   background-color: green;
@@ -43,18 +48,6 @@
 }
 
 #btn_fadeOut {
-  color: aqua;
-  background-color: green;
-  width: 250px;
-}
-
-#btn_header {
-  color: aqua;
-  background-color: green;
-  width: 250px;
-}
-
-#btn_header_fadeInOut {
   color: aqua;
   background-color: green;
   width: 250px;
