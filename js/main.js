@@ -22,7 +22,7 @@ function show() {
 
 function hide() { 
     // hideボタン
-    $('#btn_header').hide();
+    $('#btn_hide').hide();
 };
 
 function fadeIn() {
