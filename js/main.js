@@ -13,9 +13,14 @@ function click() {
   function ohayou() {
     alert("Hello!");
   }
-  function hide() {
-    $("#header").hide();
-  }
-  function show() {
-    $("#header").show();
-  }
+  $(function() {
+    // showボタン
+    $('#btn_show').click(function() {
+        $('#header').show();
+    });
+ 
+    // hideボタン
+    $('#btn_hide').click(function() {
+        $('#header').hide();
+    });
+});
