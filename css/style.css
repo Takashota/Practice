@@ -27,6 +27,11 @@
   height: 10px;
 }
 
+#btn_show {
+  color: aqua;
+  width:20px;
+}
+
 #header_fadeInOut {
   visibility:hidden;
   background: red;
