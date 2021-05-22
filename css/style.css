@@ -31,9 +31,14 @@
   width: 250px;
 }
 
+#btn_hide {
+  color: aqua;
+  background-color: green;
+  width: 250px;
+}
+
 #header_fadeInOut {
   visibility:hidden;
-  background: red;
   width: 180px;
   height: 50px;
 }
