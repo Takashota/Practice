@@ -12,17 +12,6 @@
   text-align: center;
   border: 3px solid #232323;
 }
-#header {
-  /*display: none;だと要素を非表示にするとレイアウトが変わってしまうので、visibility:hiddenを使う*/
-  visibility:hidden;
-  background: red;
-  width: 10px;
-  height: 20px;
-}
-#btn_hide {
-  color: aqua;
-  width: 250px;
-}
 
 #btn_header_fadeInOut {
   color: aqua;
