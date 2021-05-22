@@ -29,6 +29,7 @@
 #div2{ background:yellow; display:block; }
 
 .example table {
+  background-color: skyblue
   width: 3000px;
   height: 1000px;
   border: 10px #000000 solid;
