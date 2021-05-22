@@ -29,16 +29,16 @@
 #div2{ background:yellow; display:block; }
 
 .example table {
-  background-color: skyblue
+  background-color: skyblue;
   width: 3000px;
   height: 1000px;
   border: 10px #000000 solid;
-  }
+}
   
-  .example td {
+.example td {
   border: 10px #000000 solid;
-  }
+}
   
-  .example th {
+.example th {
   border: 10px #000000 solid;
-  }
+}
