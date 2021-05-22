@@ -27,7 +27,7 @@ function showhide() {
     });
 };
 
-$(function() {
+function fadeInOut() {
     // showボタン
     $('#btn_fadeIn').click(function() {
         $('#header_fadeInOut').fadeIn();
@@ -37,5 +37,5 @@ $(function() {
     $('#btn_fadeOut').click(function() {
         $('#header_fadeInOut').fadeOut();
     });
-});
+};
 
