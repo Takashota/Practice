@@ -4,7 +4,9 @@
     $("#header").hide();
 });
 */
-document.getElementById("text-button").onclick = function() {
-    document.getElementById("text").innerHTML = "クリックされた！";
-    $("#header").hide();
-  };
+function click() {
+    document.getElementById("text-button").onclick = function() {
+        document.getElementById("text").innerHTML = "クリックされた！";
+        $("#header").hide();
+      };
+  }
