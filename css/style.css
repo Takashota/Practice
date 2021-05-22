@@ -33,21 +33,21 @@
   width: 80px;
   height: 50px;
 }
-.container{ height:20px;}
+.container{ height:40px;}
 #div1{ background:pink; visibility:hidden; }
 #div2{ background:yellow; display:block; }
 
 .example table {
   background-color: skyblue;
-  width: 30px;
+  width: 80px;
   height: 20px;
   border: 5px gray solid;
 }
   
 .example td {
-  border: 8px gray solid;
+  border: 10px gray solid;
 }
   
 .example th {
-  border: 8px gray solid;
+  border: 10px gray solid;
 }
