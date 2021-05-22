@@ -13,7 +13,8 @@
   border: 1px solid #232323;
 }
 #header {
-  display: none;
+  /*display: none;だと要素を非表示にするとレイアウトが変わってしまうので、visibility:hiddenを使う*/
+  visibility:hidden;
   background: red;
   width: 80px;
   height: 50px;
@@ -27,13 +28,13 @@
 }
 
 #header_fadeInOut {
-  display: none;
+  visibility:hidden;
   background: red;
   width: 80px;
   height: 50px;
 }
 .container{ height:120px;}
-#div1{ background:pink; display:none; }
+#div1{ background:pink; visibility:hidden; }
 #div2{ background:yellow; display:block; }
 
 .example table {
