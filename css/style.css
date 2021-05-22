@@ -20,13 +20,11 @@
   height: 20px;
 }
 #btn_hide {
-  visibility: hidden;
   color: aqua;
   width: 250px;
 }
 
 #btn_header_fadeInOut {
-  visibility: hidden;
   color: aqua;
   width: 250px;
 }
