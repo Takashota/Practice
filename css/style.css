@@ -20,11 +20,9 @@
   height: 20px;
 }
 #btn_header {
-  display: block;
   color: aqua;
-  background : red;
-  width: 10px;
-  height: 10px;
+  width: 100px;
+  height: 100px;
 }
 
 #btn_show {
