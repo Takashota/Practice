@@ -15,7 +15,7 @@ function ohayou() {
     alert("Hello!");
 }
 
-$(function() {
+function showhide() {
     // showボタン
     $('#btn_show').click(function() {
         $('#header').show();
@@ -25,7 +25,7 @@ $(function() {
     $('#btn_hide').click(function() {
         $('#header').hide();
     });
-});
+};
 
 $(function() {
     // showボタン
