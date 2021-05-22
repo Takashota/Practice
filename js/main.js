@@ -22,7 +22,7 @@ function show() {
 
 function hide() { 
     // hideボタン
-    $('#div_hide').animate({opacity: 'hide'})
+    $('#div_hide').animate({opacity: 0})
 };
 
 function fadeIn() {
@@ -32,5 +32,5 @@ function fadeIn() {
 
 function fadeOut() {
     // fadeOutボタン
-    $('#div_fadeInOut').animate({opacity: 'hide'})
+    $('#div_fadeInOut').animate({opacity: 0})
 };
