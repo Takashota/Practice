@@ -22,16 +22,15 @@ function show() {
 
 function hide() { 
     // hideボタン
-    $('#btn_hide : visible');
+    $('#btn_header').animate({opacity: 0})
 };
 
 function fadeIn() {
     // fadeInボタン
-    $('#btn_header_fadeInOut').fadeIn();
+    $('#btn_header_fadeInOut').fadeIn();    
 };
 
 function fadeOut() {
     // fadeOutボタン
-    $('#btn_header_fadeInOut').fadeOut();
+    $('#btn_header_fadeInOut').animate({opacity: 0})
 };
-
