@@ -39,15 +39,15 @@
 
 .example table {
   background-color: skyblue;
-  width: 10px;
+  width: 30px;
   height: 20px;
-  border: 5px #000000 solid;
+  border: 5px gray solid;
 }
   
 .example td {
-  border: 5px #000000 solid;
+  border: 8px gray solid;
 }
   
 .example th {
-  border: 5px #000000 solid;
+  border: 8px gray solid;
 }
