@@ -11,8 +11,16 @@ body{
     font-size: large;
     color: #fff;
 }
-.content{
-    display: inline;
+.content_parent{
+    flex: 1;
+    background-color: rgb(45, 45, 45);
+    text-align: left;
+    margin-top: 10px;
+    font-size: large;
+    color: #fff;
+}
+.content_child{
+    float: left;
     flex: 1;
     background-color: rgb(45, 45, 45);
     text-align: left;
