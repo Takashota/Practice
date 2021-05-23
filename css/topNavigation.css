@@ -12,6 +12,7 @@ body{
     color: #fff;
 }
 .content_parent{
+    flex-direction: row;
     flex: 1;
     background-color: rgb(45, 45, 45);
     text-align: left;
