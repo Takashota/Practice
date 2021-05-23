@@ -5,7 +5,7 @@ body{
 }
 .topNavigation{
     height: 50px;
-    height: 10rem;
+    vertical-align:middle;
     text-align: left;
     background-color: rgb(45, 45, 45);
     font-size: large;
