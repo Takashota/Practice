@@ -12,7 +12,7 @@ body{
 }
 .content{
     flex: 1;
-    background-color: #eee;
+    background-color: rgb(45, 45, 45);
     text-align: center;
     margin-top: 10px;
 }
