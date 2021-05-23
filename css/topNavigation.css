@@ -12,6 +12,7 @@ body{
     color: #fff;
 }
 .content{
+    display: inline;
     flex: 1;
     background-color: rgb(45, 45, 45);
     text-align: left;
