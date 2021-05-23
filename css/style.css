@@ -80,20 +80,8 @@ body {
   width: 180px;
   height: 50px;
 }
-/*
-.example table {
-  background-color: blue;
-  width: 180px;
-  height: 80px;
-  border: 5px gray solid;
+
+.footer{
+  color: white;
+  font-size: large;
 }
-  
-.example td {
-  color:gray;
-  border: 10px gray solid;
-}
-  
-.example th {
-  border: 10px gray solid;
-}
-*/
