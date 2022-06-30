@@ -24,13 +24,14 @@ body{
 }
 .content_parent{
     /*要素の横の長さを指定する。*/
-    width: 100px;
+    width: 150px;
     height: 100%;
     margin: 0%;
     margin-top: 1px;
     margin-left: 0%;
     margin-right: 0%;
     display:inline-block;
+    display: flex;
     background-color: rgb(24, 43, 208);
     text-align: left;
     font-size: large;
@@ -39,7 +40,6 @@ body{
 .content_child{
     float: left;
     flex: 1;
-    display: flex;
     background-color: rgb(255, 255, 255);
     text-align: left;
     margin-top: 10px;
