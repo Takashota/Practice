@@ -48,10 +48,9 @@ body{
     color: black;
 }
 .element_common{
-    height: 50px;
+    height: 40px;
     margin: 0%;
     display: flex;
-    display: inline-block;
     background-color: rgb(255, 255, 255);
     text-align: left;
     margin-top: 0px;
