@@ -50,6 +50,7 @@ body{
 .element_common{
     height: 40px;
     margin: 0%;
+    display: flex;
     background-color: rgb(255, 255, 255);
     text-align: left;
     margin-top: 0px;
