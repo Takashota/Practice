@@ -7,7 +7,7 @@ body{
     height: 50px;
     vertical-align:middle;
     text-align: left;
-    background-color: rgb(32, 29, 193);
+    background-color: rgb(24, 43, 208);
     font-size: large;
     color: #fff;
 }
@@ -23,7 +23,7 @@ body{
 .content_child{
     float: left;
     flex: 1;
-    background-color: rgb(45, 45, 45);
+    background-color: rgb(24, 43, 208);
     text-align: left;
     margin-top: 10px;
     font-size: large;
