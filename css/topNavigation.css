@@ -47,3 +47,12 @@ body{
     font-size: large;
     color: black;
 }
+.element_common{
+    height: 40px;
+    margin: 0%;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 0px;
+    font-size: large;
+    color: black;
+}
