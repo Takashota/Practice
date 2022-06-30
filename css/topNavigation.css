@@ -7,6 +7,7 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: rgb(240, 240, 240);
 }
 .topNavigation{
     /*要素の縦の長さを指定する。*/
