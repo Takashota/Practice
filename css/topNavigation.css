@@ -4,7 +4,7 @@ body{
     flex-direction: column;
 }
 .topNavigation{
-    height: 10px;
+    height: 70px;
     vertical-align:middle;
     text-align: left;
     background-color: rgb(24, 43, 208);
