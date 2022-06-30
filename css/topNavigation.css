@@ -25,8 +25,9 @@ body{
 .content_parent{
     /*要素の横の長さを指定する。*/
     width: 100px;
+    height: 100%;
     margin: 0%;
-    margin-top: 1%;
+    margin-top: 0.01%;
     margin-left: 0%;
     margin-right: 0%;
     display:inline-block;
