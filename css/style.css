@@ -49,9 +49,9 @@ body {
 
 #btn_show {
   color: blue;
-  background-color: lightgreen;
-  height: 20px;
-  width: 250px;
+  background-color: grey;
+  height: 60px;
+  width: 10%;
 }
 
 #btn_hide {
