@@ -4,8 +4,8 @@ body{
     flex-direction: column;
 }
 .topNavigation{
-    height: 0px;
-    left: 0%;
+    height: 50px;
+    left: 50%;
     vertical-align:middle;
     text-align: left;
     background-color: rgb(24, 43, 208);
