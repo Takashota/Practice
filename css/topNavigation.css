@@ -30,8 +30,7 @@ body{
     margin-left: 0%;
     margin-right: 0%;
     margin-bottom: 0%;
-    display:flex;
-    flex: 1;
+    display:inline-block;
     background-color: rgb(24, 43, 208);
     text-align: left;
     margin-top: 10px;
