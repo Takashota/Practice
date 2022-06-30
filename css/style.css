@@ -56,29 +56,30 @@ body {
 
 #btn_hide {
   color: blue;
-  background-color: lightgreen;
-  height: 20px;
-  width: 250px;
+  background-color: grey;
+  height: 60px;
+  width: 10%;
 }
 
 #btn_fadeIn {
   color: blue;
-  background-color: lightgreen;
-  height: 20px;
-  width: 250px;
+  background-color: grey;
+  height: 60px;
+  width: 10%;
 }
 
 #btn_fadeOut {
   color: blue;
-  background-color: lightgreen;
-  height: 20px;
-  width: 250px;
+  background-color: grey;
+  height: 60px;
+  width: 10%;
 }
 
 #header_fadeInOut {
-  visibility:hidden;
-  width: 180px;
-  height: 50px;
+  color: blue;
+  background-color: grey;
+  height: 60px;
+  width: 10%;
 }
 
 .footer{
