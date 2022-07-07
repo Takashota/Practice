@@ -30,6 +30,7 @@ body{
   height: 50px;
   position: absolute;
   right: 0;
+  margin-right:10px;
 }
 .topNavigationMessage{
   position: absolute;
