@@ -28,6 +28,6 @@ function fadeOut() {
 	$('#div_fadeInOut').animate({opacity: 0})
 };
 
-	document.getElementById("HomeInput").onclick = function HomeInputButton(){
+/*document.getElementById("HomeInput").onclick = function HomeInputButton(){
 	console.log("HomeButton was clicked.");
-};
+};*/
