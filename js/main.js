@@ -28,6 +28,14 @@ function fadeOut() {
 	$('#div_fadeInOut').animate({opacity: 0})
 };
 
-function HomeInputButton(){
+function HomeInputButton1(){
 	console.log("HomeButton was clicked.");
+};
+
+function HomeInputButton2(){
+	console.log("HomeButton2 was clicked.");
+};
+
+function HomeInputButton3(){
+	console.log("HomeButton3 was clicked.");
 };
