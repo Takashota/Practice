@@ -145,3 +145,7 @@ body{
   height:80px;
   background-color: aqua;
 }
+.header_input{
+  width: 80px;
+  height: 30px;
+}
