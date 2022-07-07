@@ -29,7 +29,7 @@ function fadeOut() {
 };
 
 function OpenModal(){
-	console.log("HomeButton was clicked.");
+	console.log("OpenModal was clicked.");
 };
 
 function HomeInputButton2(){
