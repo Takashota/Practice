@@ -81,7 +81,9 @@ body{
 .splitNavSection{
   display: flex;
 }
-
+.buttuon_common{
+  margin: 5px 5px 5px 5px;
+}
 #test {
   color: white;
 }
