@@ -78,16 +78,6 @@ body{
   height: 600px;
   padding-right: 25px ;
 }
-.content_parent{
-	/*要素の横の長さを指定する。*/
-	width: fit-content;
-	height: 100%;
-	margin: 10px 10px 10px 10px;
-	display:inline-block;
-	text-align: left;
-	font-size: large;
-	color: white;
-}
 .splitNavSection{
   display: flex;
 }
