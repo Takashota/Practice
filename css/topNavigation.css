@@ -1,9 +1,5 @@
 body{
-    margin: 0%;
-    margin-top: 0%;
-    margin-left: 0%;
-    margin-right: 0%;
-    margin-bottom: 0%;
+    margin: 0% 0% 0% 0% ;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -11,16 +7,12 @@ body{
 }
 .topNavigation{
     /*要素の縦の長さを指定する。*/
-    height: 70px;
-    margin: 0%;
-    margin-top: 0%;
-    margin-left: 0%;
-    margin-right: 0%;
-    margin-bottom: 0%;
+    height: 150px;
+    margin: 0% 0% 0% 0%;
     vertical-align:middle;
     text-align: left;
     background-color: rgb(24, 43, 208);
-    font-size: large;
+    font-size: xxx-large;
     color: #fff;
 }
 .content_parent{
