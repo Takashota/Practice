@@ -15,6 +15,9 @@ body {
   margin-right: auto;
 }
 
+.HomeGlobalNavCSS{
+  color:blueviolet
+}
 #test {
   color: white;
 }
