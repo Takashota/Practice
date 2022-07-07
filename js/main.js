@@ -28,7 +28,7 @@ function fadeOut() {
 	$('#div_fadeInOut').animate({opacity: 0})
 };
 
-function HomeInputButton1(){
+function OpenModal(){
 	console.log("HomeButton was clicked.");
 };
 
