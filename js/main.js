@@ -1,36 +1,36 @@
 /*$("#btn").on("click", function(){
-    //jQueryを使って画面にメッセージを表示する。
-    $("#tBox").val(message);
-    $("#header").hide();
+	//jQueryを使って画面にメッセージを表示する。
+	$("#tBox").val(message);
+	$("#header").hide();
 });
 */
 function click() {
-    document.getElementById("text-button").onclick = function() {
-        document.getElementById("text").innerHTML = "クリックされた！";
-        $("#header").hide();
-    };
+	document.getElementById("text-button").onclick = function() {
+		document.getElementById("text").innerHTML = "クリックされた！";
+		$("#header").hide();
+	};
 }
 
 function ohayou() {
-    alert("Hello!");
+	alert("Hello!");
 }
 
 function show() {
-    // showボタン
-    $('#div_hide').show();
+	// showボタン
+	$('#div_hide').show();
 };
 
 function hide() { 
-    // hideボタン
-    $('#div_hide').animate({opacity: 0})
+	// hideボタン
+	$('#div_hide').animate({opacity: 0})
 };
 
 function fadeIn() {
-    // fadeInボタン
-    $('#div_fadeInOut').fadeIn();
+	// fadeInボタン
+	$('#div_fadeInOut').fadeIn();
 };
 
 function fadeOut() {
-    // fadeOutボタン
-    $('#div_fadeInOut').animate({opacity: 0})
+	// fadeOutボタン
+	$('#div_fadeInOut').animate({opacity: 0})
 };

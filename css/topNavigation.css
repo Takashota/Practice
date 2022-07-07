@@ -1,52 +1,52 @@
 body{
-    margin: 0% 0% 0% 0% ;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(240, 240, 240);
+	margin: 0% 0% 0% 0% ;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(240, 240, 240);
 }
 .topNavigation{
-    /*要素の縦の長さを指定する。*/
-    height: 150px;
-    margin: 0% 0% 0% 0%;
-    vertical-align:middle;
-    text-align: left;
-    background-color: rgb(24, 43, 208);
-    font-size: xxx-large;
-    color: #fff;
+	/*要素の縦の長さを指定する。*/
+	height: 150px;
+	margin: 0% 0% 0% 0%;
+	vertical-align:middle;
+	text-align: left;
+	background-color: rgb(24, 43, 208);
+	font-size: xxx-large;
+	color: #fff;
 }
 .content_parent{
-    /*要素の横の長さを指定する。*/
-    width: 150px;
-    height: 100%;
-    margin: 0%;
-    margin-top: 1px;
-    margin-left: 0%;
-    margin-right: 0%;
-    display:inline-block;
-    display: flex;
-    background-color: rgb(24, 43, 208);
-    text-align: left;
-    font-size: large;
-    color: white;
+	/*要素の横の長さを指定する。*/
+	width: 150px;
+	height: 100%;
+	margin: 0%;
+	margin-top: 1px;
+	margin-left: 0%;
+	margin-right: 0%;
+	display:inline-block;
+	display: flex;
+	background-color: rgb(24, 43, 208);
+	text-align: left;
+	font-size: large;
+	color: white;
 }
 .content_child{
-    float: left;
-    flex: 1;
-    display: flex;
-    background-color: rgb(255, 255, 255);
-    text-align: left;
-    margin-top: 0px;
-    font-size: large;
-    color: black;
+	float: left;
+	flex: 1;
+	display: flex;
+	background-color: rgb(255, 255, 255);
+	text-align: left;
+	margin-top: 0px;
+	font-size: large;
+	color: black;
 }
 .element_common{
-    height: 100%;
-    margin: 0%;
-    display: flex;
-    background-color: rgb(255, 255, 255);
-    text-align: left;
-    margin-top: 0px;
-    font-size: large;
-    color: black;
+	height: 100%;
+	margin: 0%;
+	display: flex;
+	background-color: rgb(255, 255, 255);
+	text-align: left;
+	margin-top: 0px;
+	font-size: large;
+	color: black;
 }
