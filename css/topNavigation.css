@@ -7,27 +7,13 @@ body{
 }
 .topNavigation{
 	/*要素の縦の長さを指定する。*/
-	height: 150px;
+	height: 70px;
 	margin: 0% 0% 0% 0%;
 	vertical-align:middle;
 	text-align: left;
 	background-color: rgb(24, 43, 208);
 	font-size: xxx-large;
 	color: #fff;
-}
-.content_parent{
-	/*要素の横の長さを指定する。*/
-	width: fit-content;
-	height: 100%;
-	margin: 0%;
-	margin-top: 1px;
-	margin-left: 0%;
-	margin-right: 10px;
-	display:inline-block;
-	background-color: rgb(44, 186, 31);
-	text-align: left;
-	font-size: large;
-	color: white;
 }
 .content_child{
 	float: left;
