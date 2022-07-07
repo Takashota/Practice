@@ -108,3 +108,8 @@ body {
   color: rgb(29, 159, 73);
   font-size: large;
 }
+.button_common{
+  width:80px;
+  height:80px;
+  background-color: aqua;
+}
