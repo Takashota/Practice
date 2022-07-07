@@ -16,9 +16,13 @@ body {
 }
 
 .HomeGlobalNavCSS{
+  list-style-type: none;
   color:white;
   display:inline-block;
   background-color: rgb(24, 43, 208);
+  width: fit-content;
+  height: max-content;
+  padding-right: 25px ;
 }
 #test {
   color: white;
