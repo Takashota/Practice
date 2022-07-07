@@ -20,7 +20,9 @@ body{
   text-align: left;
 }
 .topNavigation div{
-  text-align: right;
+  text-align: center;
+    height: 70px;
+    width: 185px;
 }
 .header_input{
   position: absolute;
@@ -28,6 +30,7 @@ body{
   margin: 15px 25px 25px 15px;
 }
 .topNavigationMessage{
+  
   position: absolute;
   left: 0;
 }
