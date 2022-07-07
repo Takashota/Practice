@@ -28,15 +28,6 @@ body {
   height: 100px;
 }
 
-#text-button {
-  display: block;
-  background: skyblue;
-  cursor: pointer;
-  width: 100px;
-  text-align: center;
-  border: 3px solid #232323;
-}
-
 #btn_header_fadeInOut {
   color: aqua;
   width: 250px;
