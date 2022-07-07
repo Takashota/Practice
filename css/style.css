@@ -26,8 +26,6 @@ body{
   text-align: right;
 }
 .header_input{
-  width: 100px;
-  height: 20px;
   position: absolute;
   right: 100px;
   margin: 15px 25px 25px 15px;
