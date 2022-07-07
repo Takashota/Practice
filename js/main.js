@@ -4,16 +4,9 @@
 	$("#header").hide();
 });
 */
-function click() {
-	document.getElementById("text-button").onclick = function() {
-		document.getElementById("text").innerHTML = "クリックされた！";
-		$("#header").hide();
-	};
-}
-
 function ohayou() {
 	alert("Hello!");
-}
+};
 
 function show() {
 	// showボタン
@@ -33,4 +26,8 @@ function fadeIn() {
 function fadeOut() {
 	// fadeOutボタン
 	$('#div_fadeInOut').animate({opacity: 0})
+};
+
+	document.getElementById("HomeInput").onclick = function HomeInputButton(){
+	console.log("HomeButton was clicked.");
 };
