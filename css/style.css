@@ -82,6 +82,10 @@ body {
   width: 10%;
 }
 
+.sectionCSS{
+  display:flex;
+}
+
 .footer{
   color: rgb(29, 159, 73);
   font-size: large;
