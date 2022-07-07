@@ -16,7 +16,9 @@ body {
 }
 
 .HomeGlobalNavCSS{
-  color:blueviolet
+  color:white;
+  display:inline-block;
+  background-color: rgb(24, 43, 208);
 }
 #test {
   color: white;
