@@ -24,6 +24,24 @@ body {
   height: max-content;
   padding-right: 25px ;
 }
+.content_parent{
+	/*要素の横の長さを指定する。*/
+	width: fit-content;
+	height: 100%;
+	margin: 0%;
+	margin-top: 1px;
+	margin-left: 0%;
+	margin-right: 10px;
+	display:inline-block;
+	background-color: rgb(44, 186, 31);
+	text-align: left;
+	font-size: large;
+	color: white;
+}
+.splitNavSection{
+  display:inline-block;
+}
+
 #test {
   color: white;
 }
