@@ -12,12 +12,17 @@ body{
 	/*要素の縦の長さを指定する。*/
 	height: 70px;
 	margin: 0% 0% 0% 0%;
+  display:flex;
 	vertical-align:middle;
 	text-align: left;
 	background-color: rgb(24, 43, 208);
 	font-size: x-large;
 	color: #fff;
 }
+.topNavigation div{
+  float:right;
+}
+
 .content_child{
 	float: left;
 	flex: 1;
