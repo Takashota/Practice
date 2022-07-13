@@ -5,6 +5,9 @@ body{
 	flex-direction: column;
 	background-color: rgb(240, 240, 240);
 }
+li{
+  list-style-type: none;
+}
 .topNavigation{
 	/*要素の縦の長さを指定する。*/
 	height: 70px;
@@ -68,7 +71,6 @@ body{
 }
 
 .HomeGlobalNavCSS{
-  list-style-type: none;
   color:white;
   display:inline-block;
   background-color: rgb(24, 43, 208);
