@@ -12,3 +12,9 @@ I wanna develop ...
   4 using JS Flameworks Angular React Vue.js
 	  (I'm going to brunch these flameworks.)
   
+
+#About Branches
+
+master------------------
+|
+---Todo list
